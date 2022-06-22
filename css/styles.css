@@ -720,6 +720,7 @@ h6 {
 .reading__swipe-choose-icon {
   display: block;
   padding-top: 101px;
+  margin: 0 auto;
 }
 
 .reading__swipe-prikol {
@@ -1023,6 +1024,7 @@ h6 {
   display: flex;
   max-width: 987px;
   margin: 0 auto;
+  margin-bottom: 119px;
 }
 
 .signup__block-title {
@@ -1101,6 +1103,15 @@ h6 {
   font-size: 13px;
   line-height: 16px;
   color: #7A85AD;
+}
+
+.signup__border {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  border: 1px solid #D8E3FE;
+  margin-bottom: 17px;
+  width: 100%;
 }
 
 .footer {

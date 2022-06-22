@@ -668,12 +668,13 @@ height: 776px;
 		&__swipe-choose {
       margin-bottom: 104px;
       
+      
 		}
 
 		&__swipe-choose-icon {
       display: block;
       padding-top: 101px;
-      // margin: 0 auto;
+      margin: 0 auto;
       // margin-bottom: 104px;
       
       
@@ -995,6 +996,8 @@ background: linear-gradient(180deg, #EAF0FF 0%, #F6F9FF 100%);
       display: flex;
       max-width: 987px;
       margin: 0 auto;
+      margin-bottom: 119px;
+      
 		}
 
 		&__block {
@@ -1054,6 +1057,13 @@ background: linear-gradient(180deg, #EAF0FF 0%, #F6F9FF 100%);
     font-size: 13px;
     line-height: 16px;
     color: #7A85AD;
+    }
+
+    &__border{
+       display: flex;
+      border: 1px solid #D8E3FE;
+      margin-bottom: 17px;
+      width: 100%;
     }
 }
 
